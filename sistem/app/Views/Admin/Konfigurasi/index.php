@@ -263,6 +263,7 @@
 								</div>
 							</div>
 						</div>
+						<?php /*
 						<div class="row">
 							<div class="col-lg-12 mx-auto">
 							<!-- Tripay -->
@@ -294,13 +295,14 @@
 								</div>
 							</div>
 						</div>
+					
 						<div class="row">
 							<div class="col-lg-12 mx-auto">
 								<!-- Tripay -->
-                            	 <div class="card shadow mb-4">
+                            	 				<div class="card shadow mb-4">
 								    <div class="card-header py-3">
-                                    <h6 class="m-0 font-weight-bold text-primary">Cek Mutasi</h6>
-                                    </div>
+                                    						<h6 class="m-0 font-weight-bold text-primary">Cek Mutasi</h6>
+								</div>
 									<div class="card-body">
 										<form action="" method="POST">
 											<p>Silahkan arahkan Callback ke <code class="text-primary"><?= base_url(); ?>/sistem/callback/cekmutasi</code></p>
@@ -325,6 +327,7 @@
 								</div>
 							</div>
 						</div>
+						*/ ?>
 							
 						<div class="row">
 							<div class="col-lg-12 mx-auto">
@@ -352,13 +355,14 @@
 							</div>
 						</div>
 
+						<?php /*
 						<div class="row">
 							<div class="col-lg-12 mx-auto">
-                                <!-- Tripay -->
-                                <div class="card shadow mb-4">
+								<!-- Tripay -->
+								<div class="card shadow mb-4">
 								    <div class="card-header py-3">
-                                    	<h6 class="m-0 font-weight-bold text-primary">Whatsapp Gateway Fonnte</h6>
-                                    </div>
+									<h6 class="m-0 font-weight-bold text-primary">Whatsapp Gateway Fonnte</h6>
+								    </div>
 									<div class="card-body">
 										<form action="" method="POST">
 											<div class="form-group row">
@@ -376,7 +380,7 @@
 									</div>
 								</div>
 							</div>
-						</div>
+						</div> */ >?
 					</div>
 
 					<div class="tab-pane" id="messages" role="tabpanel" aria-labelledby="messages-tab">
