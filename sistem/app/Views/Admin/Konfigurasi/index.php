@@ -380,7 +380,7 @@
 									</div>
 								</div>
 							</div>
-						</div> */ >?
+						</div> */ ?>
 					</div>
 
 					<div class="tab-pane" id="messages" role="tabpanel" aria-labelledby="messages-tab">
