@@ -59,7 +59,7 @@
                     <span>Konfigurasi</span></a>
             </li>
 
-            <!-- Nav Item - Konfigurasi -->
+            <!-- Nav Item - Konfigurasi
             <li class="nav-item">
                 <a class="nav-link" href="<?= base_url(); ?>/admin/whatsapp">
                     <i class="fas fa-fw fa-comment-dots"></i>
@@ -89,7 +89,7 @@
             </li>
             
 
-            <!-- Nav Item - Member -->
+            <!-- Nav Item - Member
             <li class="nav-item">
                 <a class="nav-link" href="<?= base_url(); ?>/admin/level">
                     <i class="fas fa-duotone fa-layer-group"></i>
@@ -131,7 +131,7 @@
                     <span>Kelola Produk</span></a>
             </li>
 
-            <!-- Nav Item -->
+            <!-- Nav Item 
             <li class="nav-item">
                 <a class="nav-link" href="<?= base_url(); ?>/admin/level-upgrade">
                     <i class="fas fa-fw fa-upload"></i>
